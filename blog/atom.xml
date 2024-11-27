@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://eldhlit.github.io/coworking2/blog</id>
+    <title>Espace de co-working à Saint Servan Blog</title>
+    <updated>2024-05-28T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://eldhlit.github.io/coworking2/blog"/>
+    <subtitle>Espace de co-working à Saint Servan Blog</subtitle>
+    <icon>https://eldhlit.github.io/coworking2/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Blog Post]]></title>
+        <id>https://eldhlit.github.io/coworking2/blog/blog</id>
+        <link href="https://eldhlit.github.io/coworking2/blog/blog"/>
+        <updated>2024-05-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[J'ai passé une semaine de télétravail à Saint Servan dans l'espace de co-working...]]></summary>
+        <content type="html"><![CDATA[<p>J'ai passé une semaine de télétravail à Saint Servan dans l'espace de co-working...</p>
+<p>Le site allie parfaitement un environnement de travail professionel et un lieu pour se détendre et profiter de Saint Malo.
+Je recommande</p>]]></content>
+        <author>
+            <name>Micheline PICAULT</name>
+        </author>
+        <category label="teletravail" term="teletravail"/>
+        <category label="saint-servan" term="saint-servan"/>
+    </entry>
+</feed>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[197],{4501:e=>{e.exports=JSON.parse('{"authors":[{"name":"Micheline PICAULT","title":"Agent Immobilier","page":{"permalink":"/coworking2/blog/authors/brad"},"imageURL":"/img/micheline2.png","key":"brad","count":1}]}')}}]);
